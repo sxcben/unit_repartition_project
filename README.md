@@ -16,7 +16,7 @@ Each person can mark if they’re satisfied, propose swaps, or accept offers —
 ## � How to run
 
 1. Run the Python file in your terminal:
-2. There is 2 python files, unit_swapp.py (that is a specific use case) and flexible_app.py which is more general (allows you to input parameters)
+   There is 2 python files, unit_swapp.py (that is a specific use case) and flexible_app.py which is more general (allows you to input parameters)
    ```bash
    python flexible_app.py
    ```
