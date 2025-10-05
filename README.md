@@ -16,16 +16,17 @@ Each person can mark if they’re satisfied, propose swaps, or accept offers —
 ## � How to run
 
 1. Run the Python file in your terminal:
+2. There is 2 python files, unit_swapp.py (that is a specific use case) and flexible_app.py which is more general (allows you to input parameters)
    ```bash
-   python roomswap.py
+   python flexible_app.py
    ```
 
-2. Enter the **password** from this website this is for the host only who must share it with others after):  
+3. Enter the **password** from this website this is for the host only who must share it with others after):  
     [https://loca.lt/mytunnelpassword](https://loca.lt/mytunnelpassword)
 
    The one who runs it becomes the **host** (it creates the public link for others).
 
-3. Then open the link shown in your terminal (something like `http://localhost:8000`) and everyone can join!
+4. Then open the link shown in your terminal (something like `http://localhost:8000`) and everyone can join!
 
 ---
 
