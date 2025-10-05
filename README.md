@@ -20,7 +20,7 @@ Each person can mark if they’re satisfied, propose swaps, or accept offers —
    python roomswap.py
    ```
 
-2. Enter the **password** from this website:  
+2. Enter the **password** from this website this is for the host only who must share it with others after):  
     [https://loca.lt/mytunnelpassword](https://loca.lt/mytunnelpassword)
 
    The one who runs it becomes the **host** (it creates the public link for others).
@@ -38,4 +38,4 @@ Each person can mark if they’re satisfied, propose swaps, or accept offers —
 
 ---
 
-Fun to use with friends and a good way to learn how auction‑like systems can work in real life 😄
+Fun to use with friends and can avoid having trobles with your friends/roomates in real life 😄
